@@ -1,4 +1,4 @@
-# Interactive Digital Systems for Fall 2021
+# Interactive Digital Systems for Spring 2022
 
 ## Lecture slides
 The slides for these lectures are mostly run as [Jupyter Notebooks](https://jupyter.org/) and for slide functionality we use [RISE](https://rise.readthedocs.io/en/stable/).
